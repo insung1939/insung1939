@@ -10,12 +10,13 @@
   
  </div>
 
-<p align=left> 
-  <img src="https://github-readme-stats.vercel.app/api?username=insung1939&theme=flag-india&show_icons=true"/></a>
-</p>
-
 <p align=center>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insung1939&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  </p>
+
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=insung1939&show_icons=true&theme=flag-india&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=insung1939&theme=flag-india&hide_border=true" />
+</p>
