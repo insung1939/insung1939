@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=INSUNG)
+![header](https://capsule-render.vercel.app/api?text=InSung)
 
 ### Stacks
 
