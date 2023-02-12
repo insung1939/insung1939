@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=InSung)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Insung&height=200)
 
 ### Stacks
 
@@ -20,3 +20,5 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=insung1939&show_icons=true&theme=flag-india&hide_border=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=insung1939&theme=flag-india&hide_border=true" />
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
